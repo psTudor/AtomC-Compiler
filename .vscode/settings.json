@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "unordered_map": "c",
+        "stdbool.h": "c",
+        "system_error": "c",
+        "random": "c",
+        "string.h": "c",
+        "lexer.h": "c",
+        "parser.h": "c",
+        "array": "c",
+        "functional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "stdlib.h": "c"
+    }
+}
